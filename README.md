@@ -1,4 +1,4 @@
-[![banner](others/images/ml.png)](https://www.its.kit.edu/Lehrveranstaltungen_DataDrivenEngineering_I.php)
+[![banner](others/images/ml1.png)](https://www.its.kit.edu/Lehrveranstaltungen_DataDrivenEngineering_I.php)
 
 # Welcome to Data Driven Engineering lecture series!
 
