@@ -9,7 +9,7 @@ We will update the list every semester. We thank our finalists for their excelle
 ## DDE I: Machine Learning for Dynamical Systems Winter Semester 2021
 
 | Participant | Project Title | Rank |
-| ------ | ------ |
+| :------ | :------ | :------: |
 | Marius Steger | MRI and Alzheimers | 1st |
 | Moritz Kopp | Early stage diabetes risk prediction | 2nd |
 | Joel Arweiler | Temperature forecasting | 3rd |
