@@ -1,6 +1,6 @@
 [![banner](others/images/ml1.PNG)](https://www.its.kit.edu/Lehrveranstaltungen_DataDrivenEngineering_I.php)
 
-# Welcome to Data Driven Engineering lecture series!
+# Welcome to our new lecture series!
 
 Engineering disciple stems from the ingenuity and the ability to contrive. This heritage has also been reflected on how the raw data is processed into information and distilled into engineering wisdom. Since its dawn, engineers have been dealing with massive amounts of data accumulated over decades of fundamental experiments and field measurements, vitalized in the form of cleverly organized charts, tables and heuristic laws. In the last few decades, our capability to generate data has increased even further with the developments in (i) the measurement techniques including the sensing technologies, (ii) computational power, (iii) faster, easier and cheaper data transfer and storage, (iv) post-processing tools and algorithms. In this regard, machine learning (ML) can be interpreted as a powerful tool that augments the traditional “wisdom distillation process” via automatic identification of the patterns hidden within the data.   
 
