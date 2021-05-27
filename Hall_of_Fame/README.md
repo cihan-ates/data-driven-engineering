@@ -8,12 +8,16 @@ We will update the list every semester. We thank our finalists for their excelle
 
 ## DDE I: Machine Learning for Dynamical Systems Winter Semester 2021
 
-- Marius Steger			MRI and Alzheimers (1st place)
-- Moritz Kopp			Early stage diabetes risk prediction (2nd place)
-- Joel Arweiler			Temperature forecasting (3rd place)
-- Tim Scheurenbrand		Stock market analysis
-- Marian Wilhelm		MotionSense
-- Matthias Vogt			Wind power forecasting
+| Participant | Project Title | Rank |
+| ------ | ------ |
+| Marius Steger | MRI and Alzheimers | 1st |
+| Moritz Kopp | Early stage diabetes risk prediction | 2nd |
+| Joel Arweiler | Temperature forecasting | 3rd |
+| Tim Scheurenbrand| Stock market analysis |Top V |
+| Matthias Vogt | Wind power forecasting |Top V |
+| Marian Wilhelm | MotionSense |Top V |
+
+> Note that Top V finalists are given in alphabetical order.
 
 
 ## License
