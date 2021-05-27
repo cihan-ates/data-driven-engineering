@@ -1,12 +1,10 @@
 [![banner](others/images/ml2.png)](https://www.its.kit.edu/Lehrveranstaltungen_DataDrivenEngineering_I.php)
 
-# $`(KI)^2T$` Best Project Contest: Hall of Fame
-
-Here you will find the project notebooks and/or codes for the "$`(KI)^2T$` Best Project Contest" finalists. 
+# Best Project Contest: Hall of Fame
 
 At the end of each lecture period, we are organizing best project contest, $`(KI)^2T`$, during which the finalists present their work. The best is decided by the votes of the audience! 
 
-The list will be updated every semester. We thank our finalists for their excellent work and sharing their work with us!
+We will update the list every semester. We thank our finalists for their excellent work and sharing their project files with us!
 
 ## DDE I: Machine Learning for Dynamical Systems Winter Semester 2021
 
