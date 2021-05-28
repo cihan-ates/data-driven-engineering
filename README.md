@@ -22,6 +22,8 @@ We have been using  Google's Colaboratory -- or Colab for short -- in the lectur
 
 > [DDE II Advanced Topics](/DDE_II_Advanced_Topics)
 
+> [Visit the Hall of Fame](/Hall_of_Fame). 
+
 
 ## About the lecture notes and videos
 
