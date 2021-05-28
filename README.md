@@ -30,8 +30,15 @@ We have been using  Google's Colaboratory -- or Colab for short -- in the lectur
 Lecture videos are currently available only in ILIAS upon registration. The lecture notes are publically available in the repository. Use and/or modification of lecture slides outside of the DDE lecture series must reference:
 
 > © ITS-KIT DDE: Data Driven Engineering Lecture Series
->
-> http://www.its.kit.edu
+
+## Curious about our research?
+
+The Institut für Thermische Strömungsmaschinen (ITS) is one of the world’s leading institutes specialised in the field of aircraft engines and gas turbines, as well as hydraulic turbomachines. In cooperation with numerous industry and research partners, the institute pioneers in the development of efficient, reliable and eco-friendly technologies, bridging between the frontiers in measurement technologies, mathematical modelling, data science and the industrial applications.
+
+>[Main areas of research at ITS](https://www.its.kit.edu/Forschungsschwerpunkte.php)
+>[Competences at ITS](https://www.its.kit.edu/Versuchsstaende_Forschungscodes.php)
+>[Lectures offered at ITS](https://www.its.kit.edu/Lehrveranstaltungen.php)
+
 
 ## License
 All the materials presented in this repository is copyright 2021 [Data Driven Engineering Lecture Series](https://www.its.kit.edu/Lehrveranstaltungen_DataDrivenEngineering_I.php). All Rights Reserved.
