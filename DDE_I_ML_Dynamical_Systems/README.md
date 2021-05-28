@@ -14,7 +14,7 @@
 	- Clustering ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%205/Lecture_5.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%205/Lecture_3.ipynb))
 	- Dimensionality Reduction ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%206/Lecture_6.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%206/Lecture_4.ipynb))
 
-- Deep Learning for Dynamical Systems ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%207/Lecture_7.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%207/Lecture_5.ipynb) & [project template](/DDE_I_ML_Dynamical_Systems/Lecture%207/SS2020_Project_Template))
+- Deep Learning for Dynamical Systems ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%207/Lecture_7.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%207/Lecture_5.ipynb) & [project template](/DDE_I_ML_Dynamical_Systems/Lecture%207/SS2020_Project_Template.pdf))
 
 - Sequence Modeling I ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%208/Lecture_8.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%208/Lecture_6.ipynb) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%209/Lecture_6_added.ipynb))
 
