@@ -36,7 +36,9 @@ Lecture videos are currently available only in ILIAS upon registration. The lect
 The Institut für Thermische Strömungsmaschinen (ITS) is one of the world’s leading institutes specialised in the field of aircraft engines and gas turbines, as well as hydraulic turbomachines. In cooperation with numerous industry and research partners, the institute pioneers in the development of efficient, reliable and eco-friendly technologies, bridging between the frontiers in measurement technologies, mathematical modelling, data science and the industrial applications.
 
 >[Main areas of research at ITS](https://www.its.kit.edu/Forschungsschwerpunkte.php)
+
 >[Competences at ITS](https://www.its.kit.edu/Versuchsstaende_Forschungscodes.php)
+
 >[Lectures offered at ITS](https://www.its.kit.edu/Lehrveranstaltungen.php)
 
 
