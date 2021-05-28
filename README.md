@@ -16,7 +16,7 @@ The second lecture is also integrated with group projects. Here  groups of stude
 
 ## How does it work?
 
-We have been using  Google's Colaboratory -- or Colab for short -- in the lecture. The necessary libraries are either readily available in Colab or installed in the respective Jupyter notebook (\*.ipynb). If you would like to test the any notebook, just click the "Run in Colab" button and it will direct you to a VM.
+We have been using  Google's Colaboratory -- or Colab for short -- in the lecture. The necessary libraries are either readily available in Colab or installed in the respective Jupyter notebook (\*.ipynb). If you would like to test any notebook, just click the "Run in Colab" button and it will direct you to a VM.
 
 > [DDE I Machine Learning for Dynamical Systems](/DDE_I_ML_Dynamical_Systems)
 
