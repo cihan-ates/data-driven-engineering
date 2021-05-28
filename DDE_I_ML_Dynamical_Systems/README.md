@@ -2,31 +2,31 @@
 
 # Lecture Outline
 
-- Basics I: Introduction to DDE ([notes](/Lecture%201/Lecture_1.pdf))
+- Basics I: Introduction to DDE ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%201/Lecture_1.pdf))
 
-- Basics II: An Ode to Learning ([notes](/Lecture%202/Lecture_2.pdf)& [code](/Lecture%202/Lecture_0.ipynb))
+- Basics II: An Ode to Learning ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%202/Lecture_2.pdf)& [code](/DDE_I_ML_Dynamical_Systems/Lecture%202/Lecture_0.ipynb))
 
 - Analysis of Static Datasets I: 
-	- Classification ([notes](/Lecture%203/Lecture_3.pdf) & [code](/Lecture%203/Lecture_1.ipynb))
-	- Regression ([notes](/Lecture%204/Lecture_4.pdf) & [code](/Lecture%204/Lecture_2.ipynb))
+	- Classification ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%203/Lecture_3.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%203/Lecture_1.ipynb))
+	- Regression ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%204/Lecture_4.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%204/Lecture_2.ipynb))
 
 - Analysis of Static Datasets II: 
-	- Clustering ([notes](/Lecture%205/Lecture_5.pdf) & [code](/Lecture%205/Lecture_3.ipynb))
-	- Dimensionality Reduction ([notes](/Lecture%206/Lecture_6.pdf) & [code](/Lecture%206/Lecture_4.ipynb))
+	- Clustering ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%205/Lecture_5.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%205/Lecture_3.ipynb))
+	- Dimensionality Reduction ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%206/Lecture_6.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%206/Lecture_4.ipynb))
 
-- Deep Learning for Dynamical Systems ([notes](/Lecture%207/Lecture_7.pdf) & [code](/Lecture%207/Lecture_5.ipynb) & [project template](/Lecture%207/SS2020_Project_Template))
+- Deep Learning for Dynamical Systems ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%207/Lecture_7.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%207/Lecture_5.ipynb) & [project template](/DDE_I_ML_Dynamical_Systems/Lecture%207/SS2020_Project_Template))
 
-- Sequence Modeling I ([notes](/Lecture%208/Lecture_8.pdf) & [code](/Lecture%208/Lecture_6.ipynb)& [code](/Lecture%209/Lecture_6_added.ipynb))
+- Sequence Modeling I ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%208/Lecture_8.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%208/Lecture_6.ipynb) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%209/Lecture_6_added.ipynb))
 
-- Sequence Modeling II ([notes](/Lecture%209/Lecture_9.pdf) & [code](/Lecture%209/Lecture_7.ipynb))
+- Sequence Modeling II ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%209/Lecture_9.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%209/Lecture_7.ipynb))
 
-- Generative Modeling I: Autoencoders ([notes](/Lecture%2010/Lecture_10.pdf) & [code]([code](/Lecture%2010/Lecture_8.ipynb)))
+- Generative Modeling I: Autoencoders ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2010/Lecture_10.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%2010/Lecture_8.ipynb))
 
-- Generative Modeling II: VAEs  & GANs ([notes](/Lecture%2011/Lecture_11.pdf) & [code]([code](/Lecture%2011/Lecture_9.ipynb)))
+- Generative Modeling II: VAEs  & GANs ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2011/Lecture_11.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%2011/Lecture_9.ipynb))
 
-- Machine Learning Control: Introduction ([notes](/Lecture%2012/Lecture_12.pdf) & [code]([code](/Lecture%2012/Lecture_10.ipynb)))
+- Machine Learning Control: Introduction ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2012/Lecture_12.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%2012/Lecture_10.ipynb))
 
-- Emerging Concepts and the Outlook ([notes](/Lecture%2013/Lecture_13.pdf))
+- Emerging Concepts and the Outlook ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2013/Lecture_13.pdf))
 
 
 ## About the lecture notes and videos
