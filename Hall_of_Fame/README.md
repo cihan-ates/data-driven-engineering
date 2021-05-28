@@ -10,12 +10,12 @@ We will update the list every semester. We thank our finalists for their excelle
 
 | Participant | Project Title | Rank |
 | :------ | :------ | :------: |
-| Marius Steger | MRI and Alzheimers | 1st |
-| Moritz Kopp | Early stage diabetes risk prediction | 2nd |
-| Joel Arweiler | Temperature forecasting | 3rd |
-| Tim Scheurenbrand| Stock market analysis |Top V |
-| Matthias Vogt | Wind power forecasting |Top V |
-| Marian Wilhelm | MotionSense |Top V |
+| Marius Steger | [MRI and Alzheimers](/Hall_of_Fame/DDE1/MRI_Alzheimers.ipynb) | 1st |
+| Moritz Kopp | [Early stage diabetes risk prediction](/Hall_of_Fame/DDE1/Diabetes_risk.ipynb) | 2nd |
+| Joel Arweiler | [Temperature forecasting](/Hall_of_Fame/DDE1/Temperature_forecasting.ipynb) | 3rd |
+| Tim Scheurenbrand| [Stock market analysis](/Hall_of_Fame/DDE1/Stock_market_analysis.ipynb) |Top V |
+| Matthias Vogt | [Wind power forecasting ](/Hall_of_Fame/DDE1/Wind_Power_Forecasting.ipynb)|Top V |
+| Marian Wilhelm | [MotionSense](/Hall_of_Fame/DDE1/MotionSense.ipynb) |Top V |
 
 > Note that Top V finalists are given in alphabetical order.
 
