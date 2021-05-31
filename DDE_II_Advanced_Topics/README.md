@@ -1,27 +1,40 @@
 [![banner](others/images/ml1.PNG)](https://www.its.kit.edu/Lehrveranstaltungen_DataDrivenEngineering_I.php)
 
-# Welcome to our new lecture series!
-
-Engineering disciple stems from the ingenuity and the ability to contrive. This heritage has also been reflected on how the raw data is processed into information and distilled into engineering wisdom. Since its dawn, engineers have been dealing with massive amounts of data accumulated over decades of fundamental experiments and field measurements, vitalized in the form of cleverly organized charts, tables and heuristic laws. In the last few decades, our capability to generate data has increased even further with the developments in (i) the measurement techniques including the sensing technologies, (ii) computational power, (iii) faster, easier and cheaper data transfer and storage, (iv) post-processing tools and algorithms. In this regard, machine learning (ML) can be interpreted as a powerful tool that augments the traditional “wisdom distillation process” via automatic identification of the patterns hidden within the data.   
-
-This lecture series focus on the fundamentals of intelligence and ML methodologies that can be utilized to solve engineering problems. In the first lecture, you will build up the basic skills needed to develop intelligent solutions for pattern recognition in experimental/numerical datasets, model abstractions, optimization and process control. Another objective is to establish a strong scientific background in order to clarify the current capabilities, challenges and opportunities in ML. The course includes weekly software sessions, organized as jupyter notebooks for hands-on experience and finalizes with an End-to-End Machine Learning Project. 
-
-At the end of the lecture period, we organize a project contest, $`(KI)^2T`$, during which the finalists picked by the DDE Team present their work. The best is decided by the votes of the audience! Feel free to explore these projects, which are available in the ["Hall of Fame"](/Hall_of_Fame). 
+# Welcome to "Advanced Topics"
 
 [![image](others/images/ml2.png)](https://www.its.kit.edu/Lehrveranstaltungen_DataDrivenEngineering_II.php)
 
-In the second lecture, we dive into the details of the most recent applications in data driven engineering within the scope of machine learning. Building upon the skills developed in the first course, we visit complex model architectures through different “themes”, with the objective of providing a deeper background and capability to navigate through the recent developments in the field. The [content](/DDE_II_Advanced_Topics) is updated every year, reflecting the recent developments in the field.
+In the second lecture, we dive into the details of the most recent applications in data driven engineering within the scope of machine learning. Building upon the skills developed in the first course, we visit complex model architectures through different “themes”, with the objective of providing a deeper background and capability to navigate through the recent developments in the field. The [content](/DDE_II_Advanced_Topics/Lecture%20outline.pdf) is updated every year, reflecting the recent developments in the field.
 
 The second lecture is also integrated with group projects. Here  groups of students are assigned open-ended research problems with scientific mentors from ITS at the beginning of the semester. In the following weeks, the groups work on their problems by combining the fundamental skills they gained in the first and second lectures. The progress will be monitored via project sessions throughout the semester. The finalized work will be presented at the end of the semester and published in the lecture repository.
 
-## How does it work?
+## Lecture Outline
 
-We have been using  Google's Colaboratory -- or Colab for short -- in the lecture. The necessary libraries are either readily available in Colab or installed in the respective Jupyter notebook (\*.ipynb). If you would like to test the any notebook, just click the "Run in Colab" button and it will direct you to a VM.
+- Content of the lecture & group projects ([notes](/DDE_II_Advanced_Topics/Lecture%201/Lecture_1.pdf))
 
-> [DDE I Machine Learning for Dynamical Systems](/DDE_I_ML_Dynamical_Systems)
+- Data-driven image processing I: CNNs ([notes](/DDE_II_Advanced_Topics/Lecture%202/Lecture_2.pdf)& [code](/DDE_II_Advanced_Topics/Lecture%202/Lecture_2.ipynb))
 
-> [DDE II Advanced Topics](/DDE_II_Advanced_Topics)
+- Data-driven image processing II: Object detection in multi-phase flows ([notes](/DDE_II_Advanced_Topics/Lecture%203/Lecture_3.pdf) & [code](/DDE_II_Advanced_Topics/Lecture%203/Lecture_3.ipynb))
 
+- Dynamic Mode Decomposition: Applications in transport phenomena ([notes](/DDE_II_Advanced_Topics/Lecture%205/Lecture_4.pdf) & [code](/DDE_II_Advanced_Topics/Lecture%205/Lecture_4.ipynb))
+
+- Project meeting I
+
+- Modelling of transport phenomena with neural networks 
+
+- State space models I
+
+- State space models II
+
+- Project Meeting II
+
+- Genetic algorithms
+
+- Data Driven Control I
+
+- Data Driven Control II
+
+- Project Presentations
 
 ## About the lecture notes and videos
 
