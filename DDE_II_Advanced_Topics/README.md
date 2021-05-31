@@ -16,7 +16,7 @@ The second lecture is also integrated with group projects. Here  groups of stude
 
 - Data-driven image processing II: Object detection in multi-phase flows ([notes](/DDE_II_Advanced_Topics/Lecture%203/Lecture_3.pdf) & [code](/DDE_II_Advanced_Topics/Lecture%203/Lecture_3.ipynb))
 
-- Dynamic Mode Decomposition: Applications in transport phenomena ([notes](/DDE_II_Advanced_Topics/Lecture%205/Lecture_4.pdf) & [code](/DDE_II_Advanced_Topics/Lecture%205/Lecture_4.ipynb))
+- Dynamic Mode Decomposition: Applications in transport phenomena ([notes](/DDE_II_Advanced_Topics/Lecture%204/Lecture_4.pdf) & [code](/DDE_II_Advanced_Topics/Lecture%204/Lecture_4.ipynb))
 
 - Project meeting I
 
