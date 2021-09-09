@@ -1,0 +1,8 @@
+PID controller:
+
+https://www.youtube.com/watch?v=S5C_z1nVaSg
+
+Curious about control? See:
+https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
+https://www.youtube.com/watch?v=oulLR06lj_E&list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR
+
