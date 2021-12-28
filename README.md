@@ -24,12 +24,15 @@ We have been using  Google's Colaboratory -- or Colab for short -- in the lectur
 
 > [Visit the Hall of Fame](/Hall_of_Fame). 
 
+> [Check out the wiki for more](/wikis/home)
 
 ## About the lecture notes and videos
 
 Lecture videos are currently available only in ILIAS upon registration. The lecture notes are publically available in the repository. Use and/or modification of lecture slides outside of the DDE lecture series must reference:
 
 > © ITS-KIT DDE: Data Driven Engineering Lecture Series
+
+> [Check out the wiki for more](/wikis/home)
 
 ## Curious about our research?
 
