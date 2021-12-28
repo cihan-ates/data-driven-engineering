@@ -24,7 +24,7 @@ We have been using  Google's Colaboratory -- or Colab for short -- in the lectur
 
 > [Visit the Hall of Fame](/Hall_of_Fame). 
 
-> [Check out the wiki for more](/wikis/home)
+> [Check out the wiki for more](/-/wikis/home)
 
 ## About the lecture notes and videos
 
@@ -32,7 +32,7 @@ Lecture videos are currently available only in ILIAS upon registration. The lect
 
 > © ITS-KIT DDE: Data Driven Engineering Lecture Series
 
-> [Check out the wiki for more](/wikis/home)
+> [Check out the wiki for more](/-/wikis/home)
 
 ## Curious about our research?
 
