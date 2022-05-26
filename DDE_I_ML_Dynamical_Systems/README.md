@@ -7,26 +7,28 @@
 - Basics II: An Ode to Learning ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%202/Lecture_2.pdf)& [code](/DDE_I_ML_Dynamical_Systems/Lecture%202/Lecture_0.ipynb))
 
 - Analysis of Static Datasets I: 
-	- Classification ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%203/Lecture_3.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%203/Lecture_1.ipynb))
-	- Regression ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%204/Lecture_4.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%204/Lecture_2.ipynb))
+	- Classification ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%203/Lecture_3.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%203/Lecture_3.ipynb))
+	- Regression ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%204/Lecture_4.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%204/Lecture_4.ipynb))
 
 - Analysis of Static Datasets II: 
-	- Clustering ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%205/Lecture_5.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%205/Lecture_3.ipynb))
-	- Dimensionality Reduction ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%206/Lecture_6.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%206/Lecture_4.ipynb))
+	- Clustering ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%205/Lecture_5.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%205/Lecture_5.ipynb))
+	- Dimensionality Reduction ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%206/Lecture_6.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%206/Lecture_6.ipynb))
 
-- Deep Learning for Dynamical Systems ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%207/Lecture_7.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%207/Lecture_5.ipynb) & [project template](/DDE_I_ML_Dynamical_Systems/Lecture%207/SS2020_Project_Template.pdf))
+- Deep Learning for Dynamical Systems ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%207/Lecture_7.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%207/Lecture_7.ipynb) & [project template](/DDE_I_ML_Dynamical_Systems/Lecture%207/SS2020_Project_Template.pdf))
 
-- Sequence Modeling I ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%208/Lecture_8.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%208/Lecture_6.ipynb) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%209/Lecture_6_added.ipynb))
+- Sequence Modeling I ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%208/Lecture_8.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%208/Lecture_8.ipynb) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%209/Lecture_8X.ipynb))
 
-- Sequence Modeling II ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%209/Lecture_9.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%209/Lecture_7.ipynb))
+- Sequence Modeling II ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%209/Lecture_9.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%209/Lecture_9.ipynb))
 
-- Generative Modeling I: Autoencoders ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2010/Lecture_10.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%2010/Lecture_8.ipynb))
+- Generative Modeling I: Autoencoders ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2010/Lecture_10.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%2010/Lecture_10.ipynb))
 
-- Generative Modeling II: VAEs  & GANs ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2011/Lecture_11.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%2011/Lecture_9.ipynb))
+- Generative Modeling II: VAEs ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2011/Lecture_11.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%2011/Lecture_11.ipynb))
 
-- Machine Learning Control: Introduction ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2012/Lecture_12.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%2012/Lecture_10.ipynb))
+- Generative Modeling III: GANs ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2012/Lecture_12.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%2012/Lecture_12.ipynb))
 
-- Emerging Concepts and the Outlook ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2013/Lecture_13.pdf))
+- Machine Learning Control: Introduction ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2013/Lecture_13.pdf) & [code](/DDE_I_ML_Dynamical_Systems/Lecture%2013/Lecture_13.ipynb))
+
+- Emerging Concepts and the Outlook ([notes](/DDE_I_ML_Dynamical_Systems/Lecture%2014/Lecture_14.pdf))
 
 
 ## About the lecture notes and videos
